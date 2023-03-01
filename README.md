@@ -4,10 +4,8 @@
 
 I'm Khoi Hoang Do. A passion De Anza student who is enrolled in the Computer Science program. Dedicated to front-end Web Developer.
 
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ben2104)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/khoi-do-0814a3257/)  
+<h3 align="left">Connect with me:</h3>
+<p align="left"> 
 
 
 <a href="https://www.linkedin.com/in/khoi-do-0814a3257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khoi do" height="30" width="40" /></a>
