@@ -5,9 +5,12 @@ I'm Khoi Hoang Do. A passion De Anza student who is enrolled in the Computer Sci
 
 To Engineer is Human 
 
+## Skills and Experience
+* 💻 PYTHON, JAVASCRIPT, HTML, CSS, JAVA, C/C++
 
 
-Skills: PYTHON, JAVASCRIPT, HTML, CSS, JAVA, C/C++
+
+
 
 
 
