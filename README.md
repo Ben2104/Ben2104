@@ -9,7 +9,6 @@ I'm Khoi Hoang Do. A passion De Anza student who is enrolled in the Computer Sci
 
 
 <a href="https://www.linkedin.com/in/khoi-do-0814a3257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khoi do" height="30" width="40" /></a>
-<a href="https://instagram.com/bendakaydee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bendakaydee" height="30" width="40" /></a>
 </p>
 </p>
 
