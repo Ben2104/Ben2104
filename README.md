@@ -2,7 +2,7 @@
 ### Hi there 👋, my name is Khoi
 ![](https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png)
 
-I'm Khoi Hoang Do. A passion De Anza student who is enrolled in the Computer Science program. Dedicated to front-end Web Developer.
+I'm Khoi Hoang Do. A passionate De Anza student who is enrolled in the Computer Science program. Dedicated to front-end Web Developer.
 💻 🖱️ ⌨️
 - 📫 How to reach me **dohoangkhoi341@gmail.com**
 <h3 align="left">Connect with me:</h3>
