@@ -13,7 +13,8 @@ I'm Khoi Hoang Do. A passionate De Anza student who is enrolled in the Computer 
 <a href="https://www.linkedin.com/in/khoi-do-0814a3257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khoi do" height="30" width="40" /></a>
 </p>
 </p>
-![giphy](https://user-images.githubusercontent.com/103481356/223590066-d8bba25f-0124-41f2-b82f-9415e6d31c42.gif)
+
+![giphy](https://user-images.githubusercontent.com/103481356/223590312-e9797f68-6ca2-4064-8a8a-ae449f633b31.gif)
 
 
 <h3 align="left">Programming Languages:</h3>
