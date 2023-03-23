@@ -5,6 +5,8 @@
 I'm Khoi Hoang Do. A passionate De Anza student who is enrolled in the Computer Science program. Dedicated to front-end Web Developer.
 💻 🖱️ ⌨️
 
+Hope we can "Hello World" together. 
+
 - 📫 How to reach me **dohoangkhoi341@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
