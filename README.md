@@ -7,7 +7,7 @@ I'm Khoi Hoang Do. A passionate De Anza student who is enrolled in the Computer 
 
 Hope we can print("Hello, World!") together. 
 
-- 📫 How to reach me **dohoangkhoi341@gmail.com**
+<h2>- 📫 How to reach me **dohoangkhoi341@gmail.com** </h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
 
