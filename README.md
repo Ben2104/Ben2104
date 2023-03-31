@@ -13,10 +13,9 @@ Hope we can print("Hello, World!") together.
 
 
 <a href="https://www.linkedin.com/in/khoi-do-0814a3257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khoi do" height="30" width="40" /></a>
-</p>
-</p>
 
-![lightbulb](https://user-images.githubusercontent.com/103481356/229199595-28fbb05f-86f5-4afd-9fc1-b2c4b1ffb7f5.gif)
+
+
 
 
 
