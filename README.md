@@ -16,7 +16,8 @@ Hope we can print("Hello, World!") together.
 </p>
 </p>
 
-![giphy](https://user-images.githubusercontent.com/103481356/223590312-e9797f68-6ca2-4064-8a8a-ae449f633b31.gif)
+![lightbulb](https://user-images.githubusercontent.com/103481356/229199595-28fbb05f-86f5-4afd-9fc1-b2c4b1ffb7f5.gif)
+
 
 
 <h3 align="left">Programming Languages:</h3>
