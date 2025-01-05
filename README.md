@@ -2,10 +2,9 @@
 ### Hi there 👋, my name is Khoi
 ![](https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png)
 
-I'm Khoi Hoang Do. A passionate De Anza student who is enrolled in the Computer Science program. Dedicated to front-end Web Developer.
+I'm Khoi Hoang Do. A passionate student who is enrolled in the Computer Science program at California State University of Long Beach
 💻 🖱️ ⌨️
 
-Hope we can print("Hello, World!") together. 
 
 - 📫 How to reach me **dohoangkhoi341@gmail.com**
 <h3 align="left">Connect with me:</h3>
