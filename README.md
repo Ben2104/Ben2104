@@ -20,4 +20,4 @@ I'm Khoi Hoang Do. A passionate student who is enrolled in the Computer Science 
 
 <h3 align="left">Programming Languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,c,react,tailwind,bootstrap,nodejs,linux,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,c,react,tailwind,bootstrap,nodejs,linux,nextjs)](https://skillicons.dev)
