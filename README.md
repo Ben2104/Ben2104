@@ -11,7 +11,7 @@ I'm Khoi Hoang Do. A passionate student who is enrolled in the Computer Science 
 <p align="left"> 
 
 
-<a href="https://www.linkedin.com/in/khoi-do-0814a3257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khoi do" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hoang-khoi-do/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khoi do" height="30" width="40" /></a>
 
 
 
