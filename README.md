@@ -1,14 +1,4 @@
-<div align="center">
- 
-<!-- Animated header with typing effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Khoi;CS+Student+%40+CSULB;Full-Stack+Developer;Always+learning+something+new..." alt="Typing SVG" />
- 
-<!-- Wave animation banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=120&section=header&text=Khoi%20Do&fontSize=40&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn" />
- 
-</div>
- 
----
+
  
 ## 🧑‍💻 About Me
  
