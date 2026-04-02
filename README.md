@@ -92,7 +92,6 @@ me.say_hi()
  
 </div>
 
----
 
 
 
@@ -104,16 +103,6 @@ me.say_hi()
 
 ![Snake animation](https://raw.githubusercontent.com/Ben2104/Ben2104/output/github-contribution-grid-snake-dark.svg)
 
-
-</div>
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
