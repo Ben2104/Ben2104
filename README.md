@@ -1,8 +1,9 @@
+<!-- ASCII profile art generated with https://github.com/mithun50/ascii-profile-kit -->
 <div align="center">
 
 <table>
 <tr>
-<td valign="top"><img src="./avatar-card.svg" width="370" alt="Portrait of Khoi Hoang Do" /></td>
+<td valign="top"><img src="./avi-ascii.svg?v=2" width="370" alt="Animated ASCII portrait of Khoi Hoang Do" /></td>
 <td valign="top"><img src="./info-card.svg?v=3" width="490" alt="About Khoi Hoang Do: education, stack, and interests" /></td>
 </tr>
 </table>
